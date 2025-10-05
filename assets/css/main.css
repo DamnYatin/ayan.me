@@ -326,7 +326,7 @@ body {
 
 #background-small {
     transform: scale(1.05);
-    background-image: url("https://drive.google.com/uc?export=download&id=1x8Vg6H9SR64FQaHt3_s93WH45q8q-x0N");
+    background-image: url("https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/city-horizon.jpg");
     background-repeat:repeat;
     background-size: cover;
     background-position: center;
